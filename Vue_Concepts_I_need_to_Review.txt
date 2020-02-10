@@ -1,0 +1,6 @@
+Vue Concepts I need to Review:
+--------------------------------
+- watch vs computed, when to use watch? 
+    - What's the difference between these properties?
+
+- more advanced vue concepts like beforeMount and mounted properties, what are these things??
